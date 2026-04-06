@@ -2,7 +2,7 @@
 
 AI Engineer building production systems that ship.
 
-Currently at **Connectivity CX** — autonomous agents, voice AI, and RAG pipelines that handle real customer workflows at scale.
+Currently building autonomous agents, voice AI, and RAG pipelines that handle real customer workflows at scale.
 
 ---
 
@@ -13,7 +13,7 @@ Currently at **Connectivity CX** — autonomous agents, voice AI, and RAG pipeli
 - Enterprise automation: MCP-based integrations, multi-source data pipelines
 
 **Stack**
-`Python · TypeScript · LangChain · LangGraph · FastAPI · Next.js
+`C/C++ Python · TypeScript · LangChain · LangGraph · Express · Next.js
 Qdrant · PostgreSQL · Redis · AWS · Docker · OpenAI · ElevenLabs`
 
 ---
@@ -32,5 +32,5 @@ Qdrant · PostgreSQL · Redis · AWS · Docker · OpenAI · ElevenLabs`
 
 ---
 
-[Portfolio](https://me.lumiora.co) · [LinkedIn](https://linkedin.com/in/its-rishabh)
+[Portfolio](https://iamaman.me) · (https://www.linkedin.com/in/aman-kumar-0853b5256/)
 
